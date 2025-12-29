@@ -6,13 +6,27 @@ Tradegenie2 is a real-time cryptocurrency portfolio tracker and trading analysis
 
 A commercial build for Windows 10/11 is available at https://github.com/kaiikigai/tradegenie2 and on sharepanda.org to support this work.
 
-## Support the project
+## Help Us Grow This Community
 
-If this app helped you, you can donate with the address below or scan the QR code.
+If Tradegenie2 has helped improve your trading or taught you valuable skills, please consider:
+
+**Sharing with others:** Post about this tool on Twitter, Reddit, or your favorite crypto communities. Tag us and let others know how it's helped you.
+
+**Star this repository:** Click the star button at the top of this page to help others discover this project.
+
+**Join the conversation:** Share your trading insights, strategies, and success stories. Connect with other traders learning to navigate the markets.
+
+**Contribute:** Whether you're a developer, trader, or enthusiast, your feedback and contributions help make this tool better for everyone.
+
+**Support development:** If this app has added value to your trading journey, you can donate using the Bitcoin address below or scan the QR code.
 
 bc1qqn23zg7p62lpkw3flnt59wgd8d9f5h8grypf7y
 
 ![Donation QR code](assets/donation_qr.png)
+
+## For Learning Traders
+
+This project is perfect for those who want to understand technical analysis and algorithmic trading. The open source code provides real examples of how indicators like MACD, RSI, and Bollinger Bands are calculated and used in actual trading decisions. Study the bot logic to see how automated strategies execute trades based on market signals. Join our growing community of traders who are learning, sharing strategies, and supporting each other's growth in the crypto markets.
 
 
 ![Screenshot](screenshot/shot1.png)
