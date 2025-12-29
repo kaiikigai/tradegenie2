@@ -15,6 +15,8 @@ bc1qqn23zg7p62lpkw3flnt59wgd8d9f5h8grypf7y
 ![Donation QR code](assets/donation_qr.png)
 
 
+![Screenshot](screenshot/shot1.png)
+
 ## Features
 
 ### Portfolio Management
